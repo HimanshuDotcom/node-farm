@@ -1,0 +1,22 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Nodejs Mini project",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HimanshuDotcom/node-farm.git"
+  },
+  "author": "Himanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HimanshuDotcom/node-farm/issues"
+  },
+  "homepage": "https://github.com/HimanshuDotcom/node-farm#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
